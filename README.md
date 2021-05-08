@@ -1,2 +1,2 @@
-# Computer-Organiztion-And-Assembly-language
+# Computer-Organization-And-Assembly-language
 Some assembly codes in NASM  
